@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<a href="https://www.linkedin.com/in/rafaelcarvalhocaetano/" target="_blank" border-radius="30">
-  <img src="https://neilpatel.com/wp-content/uploads/2017/05/LinkedIn.jpg" width="100" height="50" style="border-radius:30px"/>
+<a href="https://www.linkedin.com/in/rafaelcarvalhocaetano/" target="_blank">
+  <img src="https://neilpatel.com/wp-content/uploads/2017/05/LinkedIn.jpg" width="80" height="50"/>
 </a>
 
