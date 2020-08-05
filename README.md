@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **rafaelcarvalhocaetano/rafaelcarvalhocaetano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+[![Linkedin Badge](https://www.linkedin.com/feed/?lipi=urn%3Ali%3Apage%3Ad_flagship3_notifications%3BnrpS65BXTcGDRldlLcJSIQ%3D%3D)](https://www.linkedin.com/in/rafaelcarvalhocaetano/)
