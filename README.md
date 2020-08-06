@@ -13,47 +13,27 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-<ul style="display: flex;">
-  <li style="text-decoration: none; list-style: none;">
-    <a href="https://github.com/rafaelcarvalhocaetano/Customers" target="_blank">
+
+ - <a href="https://github.com/rafaelcarvalhocaetano/Customers" target="_blank">
       <img width="30" height="50" src="https://github.com/rafaelcarvalhocaetano/rafaelcarvalhocaetano/blob/master/angular.jpeg" alt="Angular">
     </a>
-  </li>
-  <li style="text-decoration: none; list-style: none;">
-
-    <a href="https://github.com/rafaelcarvalhocaetano/File_Management" target="_blank">
+    
+ - <a href="https://github.com/rafaelcarvalhocaetano/File_Management" target="_blank">
       <img width="30" height="50" src="https://github.com/rafaelcarvalhocaetano/rafaelcarvalhocaetano/blob/master/dart.png" alt="Dart">
     </a>
-  </li>
-  <li style="text-decoration: none; list-style: none;">
-
-    <a href="https://github.com/rafaelcarvalhocaetano/File_Management" target="_blank">
+    
+ -  <a href="https://github.com/rafaelcarvalhocaetano/File_Management" target="_blank">
       <img width="30" height="50" src="https://github.com/rafaelcarvalhocaetano/rafaelcarvalhocaetano/blob/master/flutter.png" alt="Flutter">
     </a>
-  </li>
-  <li style="text-decoration: none; list-style: none;">
-
-    <a href="https://www.linkedin.com/in/rafaelcarvalhocaetano/" target="_blank">
+ -  <a href="https://www.linkedin.com/in/rafaelcarvalhocaetano/" target="_blank">
       <img width="30" height="50" src="https://github.com/rafaelcarvalhocaetano/rafaelcarvalhocaetano/blob/master/linkedin.jpg" alt="Linkedin">
     </a>
-  </li>
-
-  <li style="text-decoration: none; list-style: none;">
-
-    <a href="https://github.com/rafaelcarvalhocaetano/Inventory-API" target="_blank">
+ - <a href="https://github.com/rafaelcarvalhocaetano/Inventory-API" target="_blank">
       <img width="30" height="50" src="https://github.com/rafaelcarvalhocaetano/rafaelcarvalhocaetano/blob/master/node.png" alt="Node">
     </a>
-  </li>
-  <li style="text-decoration: none; list-style: none;">
-
-    <a href="https://github.com/rafaelcarvalhocaetano/Microservicos" target="_blank">
+ -  <a href="https://github.com/rafaelcarvalhocaetano/Microservicos" target="_blank">
       <img width="30" height="50" src="https://github.com/rafaelcarvalhocaetano/rafaelcarvalhocaetano/blob/master/spring.png" alt="Java">
     </a>
-  </li>
-  <li style="text-decoration: none; list-style: none;">
-
-    <a href="https://github.com/rafaelcarvalhocaetano/VuePipefy" target="_blank">
+ -  <a href="https://github.com/rafaelcarvalhocaetano/VuePipefy" target="_blank">
       <img width="30" height="50" src="https://github.com/rafaelcarvalhocaetano/rafaelcarvalhocaetano/blob/master/vue.png" alt="Vue">
     </a>
-  </li>
-</ul>
