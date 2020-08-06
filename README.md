@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<div style="display: flex;">
+<div style="display: flex; padding: 20px; margin: 20px" >
  <a href="https://github.com/rafaelcarvalhocaetano/Customers" target="_blank">
-      <img width="30" height="50" src="https://github.com/rafaelcarvalhocaetano/rafaelcarvalhocaetano/blob/master/angular.jpeg" alt="Angular">
+      <img width="50" height="50" src="https://github.com/rafaelcarvalhocaetano/rafaelcarvalhocaetano/blob/master/angular.jpeg" alt="Angular">
     </a>
     
  <a href="https://github.com/rafaelcarvalhocaetano/File_Management" target="_blank">
