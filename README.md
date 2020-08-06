@@ -1,8 +1,6 @@
 ### Hi there 👋
 
 
-**rafaelcarvalhocaetano/rafaelcarvalhocaetano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -13,6 +11,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
   <div style="display: flex; padding: 20px; margin: 20px" >
   <a href="https://github.com/rafaelcarvalhocaetano/Customers" target="_blank">
     <img width="100" height="50" src="https://github.com/rafaelcarvalhocaetano/rafaelcarvalhocaetano/blob/master/angular.jpeg" alt="Angular">
