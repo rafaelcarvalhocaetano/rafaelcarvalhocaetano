@@ -31,7 +31,7 @@
       <img width="100" height="50" src="https://github.com/rafaelcarvalhocaetano/rafaelcarvalhocaetano/blob/master/vue.png" alt="Vue">
     </a>
  </div>
-<div style="display: flex; flex-direction: column; padding: 20px; margin: 20px" >
+<div style="display: flex; align-items: center; padding: 20px; margin: 20px" >
 - 📫 How to reach me:
   <a href="https://www.linkedin.com/in/rafaelcarvalhocaetano/" target="_blank">
     <img width="100" height="50" src="https://github.com/rafaelcarvalhocaetano/rafaelcarvalhocaetano/blob/master/linkedin.jpg" alt="Linkedin">
