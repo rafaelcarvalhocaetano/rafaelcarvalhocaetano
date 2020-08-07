@@ -1,9 +1,12 @@
 ### Hi there 👋
 
 
-- 🔭 I am currently working as a front end with Angular 9  
-
+- 🔭 I am currently working as a front end with Angular 9.
+- 🌱 I’m currently learning Flutter :iphone:
 <div style="display: flex; flex-direction: column; padding: 20px; margin: 20px" >
+
+- 👯 I’m looking to collaborate with:
+  
   <a href="https://github.com/rafaelcarvalhocaetano/Customers" target="_blank">
     <img width="100" height="50" src="https://github.com/rafaelcarvalhocaetano/rafaelcarvalhocaetano/blob/master/angular.jpeg" alt="Angular">
   </a>
@@ -28,10 +31,10 @@
       <img width="100" height="50" src="https://github.com/rafaelcarvalhocaetano/rafaelcarvalhocaetano/blob/master/vue.png" alt="Vue">
     </a>
  </div>
-
-- 🌱 I’m currently learning Flutter :iphone:
-- 👯 I’m looking to collaborate with Angular, Vue e Flutter.
+<div style="display: flex; flex-direction: column; padding: 20px; margin: 20px" >
 - 📫 How to reach me:
   <a href="https://www.linkedin.com/in/rafaelcarvalhocaetano/" target="_blank">
     <img width="100" height="50" src="https://github.com/rafaelcarvalhocaetano/rafaelcarvalhocaetano/blob/master/linkedin.jpg" alt="Linkedin">
   </a>
+</div>
+
