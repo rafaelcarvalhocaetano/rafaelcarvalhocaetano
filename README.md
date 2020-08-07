@@ -18,7 +18,7 @@ Here are some ideas to get you started:
   </a>
     
   <a href="https://github.com/rafaelcarvalhocaetano/File_Management" target="_blank">
-    <img width="80" height="50" src="https://github.com/rafaelcarvalhocaetano/rafaelcarvalhocaetano/blob/master/dart.png" alt="Dart">
+    <img width="60" height="50" src="https://github.com/rafaelcarvalhocaetano/rafaelcarvalhocaetano/blob/master/dart.png" alt="Dart">
   </a>
     
 <a href="https://github.com/rafaelcarvalhocaetano/File_Management" target="_blank">
@@ -31,7 +31,7 @@ Here are some ideas to get you started:
       <img width="100" height="50" src="https://github.com/rafaelcarvalhocaetano/rafaelcarvalhocaetano/blob/master/node.png" alt="Node">
     </a>
     <a href="https://github.com/rafaelcarvalhocaetano/Microservicos" target="_blank">
-      <img width="80" height="50" src="https://github.com/rafaelcarvalhocaetano/rafaelcarvalhocaetano/blob/master/spring.png" alt="Java">
+      <img width="60" height="50" src="https://github.com/rafaelcarvalhocaetano/rafaelcarvalhocaetano/blob/master/spring.png" alt="Java">
     </a>
     <a href="https://github.com/rafaelcarvalhocaetano/VuePipefy" target="_blank">
       <img width="100" height="50" src="https://github.com/rafaelcarvalhocaetano/rafaelcarvalhocaetano/blob/master/vue.png" alt="Vue">
