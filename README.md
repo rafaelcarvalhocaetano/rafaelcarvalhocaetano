@@ -1,16 +1,7 @@
 ### Hi there 👋
 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I am currently working as a front end with Angular 9  
 
 <div style="display: flex; flex-direction: column; padding: 20px; margin: 20px" >
   <a href="https://github.com/rafaelcarvalhocaetano/Customers" target="_blank">
@@ -38,3 +29,9 @@ Here are some ideas to get you started:
     </a>
  </div>
 
+- 🌱 I’m currently learning Flutter :iphone:
+- 👯 I’m looking to collaborate with Angular, Vue e Flutter.
+- 📫 How to reach me:
+  <a href="https://www.linkedin.com/in/rafaelcarvalhocaetano/" target="_blank">
+    <img width="100" height="50" src="https://github.com/rafaelcarvalhocaetano/rafaelcarvalhocaetano/blob/master/linkedin.jpg" alt="Linkedin">
+  </a>
