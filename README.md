@@ -3,7 +3,7 @@
 
 
 
-<div style="width: 100%; height:100vh; background-color: #CCC">
+<div background-color="#CCC" "height"="100vh" "width"="100vw">
   
   ### Hi there 👋
 
