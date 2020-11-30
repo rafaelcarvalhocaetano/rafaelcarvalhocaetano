@@ -12,8 +12,9 @@
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelcarvalhocaetano&layout=compact&hide=html,css,powershell&langs_count=8&exclude_repo=github-readme-stats,anuraghazra.github.io" height="200" width="250"/>
   
   
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=rafaelcarvalhocaetano" height="200" width="250"/>
+  
 
 
 
 </div>
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rafaelcarvalhocaetano)](https://github.com/anuraghazra/github-readme-stats)
