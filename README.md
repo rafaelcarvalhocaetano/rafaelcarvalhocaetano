@@ -1,10 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 Front-end: Angular, React and Vue (TS || JS).
-- 🔭 Back-end: Node (TS || JS) and Python (Flask).
-
-- 👯 I’m looking to collaborate with:
+- 🔭 Front-end: Angular, React and Vue (TS || JS) === Back-end: Node (TS || JS) and Python (Flask).
 - 📫 How to reach me <a href="https://www.linkedin.com/in/rafaelcarvalhocaetano/">Linkedin</a>
   
 <div align="left">
