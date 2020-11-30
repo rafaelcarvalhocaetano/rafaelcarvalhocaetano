@@ -15,4 +15,4 @@
 </div>
 - Compact layout
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rafaelcarvalhocaetano&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![rafaelcarvalhocaetano's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rafaelcarvalhocaetano&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
