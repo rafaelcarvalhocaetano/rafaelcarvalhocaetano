@@ -7,6 +7,6 @@
 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/?username=rafaelcarvalhocaetano&hide=commits,issues,contribs start&show_icons=true&count_private=false&include_all_commits=false" height="300" width="420"/>
+  <img src="https://github-readme-stats.vercel.app/api/?username=rafaelcarvalhocaetano&hide=prs,issues,contribs start&show_icons=true&count_private=false&include_all_commits=false" height="300" width="420"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelcarvalhocaetano&layout=compact&hide=html,css,powershell" height="300" width="350"/>
 </div>
