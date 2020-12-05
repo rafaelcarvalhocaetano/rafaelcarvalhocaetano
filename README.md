@@ -3,6 +3,13 @@
 - 🔭 Front-end: Angular, React and Vue (TS || JS) === Back-end: Node (TS || JS) and Python (Flask).
   
 <div align="left">
+  
+  
+  
+  <a href="https://github.com/anuraghazra/github-readme-stats/actions">
+    <img alt="Tests Passing" src="https://github.com/rafaelcarvalhocaetano/rafaelcarvalhocaetano/blob/master/Group1.png" />
+  </a>
+  
   <a href="https://github.com/anuraghazra/github-readme-stats/actions">
       <img alt="Tests Passing" src="https://github.com/anuraghazra/github-readme-stats/workflows/Test/badge.svg" />
     </a>
