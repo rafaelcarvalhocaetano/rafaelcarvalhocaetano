@@ -4,12 +4,9 @@
   
 
 <div display="flex">
-  
- <img src="https://github.com/rafaelcarvalhocaetano/rafaelcarvalhocaetano/blob/master/back.png" height="130" width="300" />
-  
- <img src="https://github.com/rafaelcarvalhocaetano/rafaelcarvalhocaetano/blob/master/front.png" height="130" width="300"/>
-   
- <img src="https://github.com/rafaelcarvalhocaetano/rafaelcarvalhocaetano/blob/master/mobile.png" height="130" width="300"/>
+ <img src="https://github.com/rafaelcarvalhocaetano/rafaelcarvalhocaetano/blob/master/front.png" height="100" width="300"/>
+ <img src="https://github.com/rafaelcarvalhocaetano/rafaelcarvalhocaetano/blob/master/back.png" height="100" width="300" />
+ <img src="https://github.com/rafaelcarvalhocaetano/rafaelcarvalhocaetano/blob/master/mobile.png" height="100" width="300"/>
 </div>
 
 <div align="left">
