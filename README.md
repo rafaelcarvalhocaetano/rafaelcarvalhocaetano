@@ -1,8 +1,6 @@
-### Rafael Carvalho Caetano
+### Rafael Carvalho Caetano  
 
-- 🔭 Front-end: Angular, React and Vue (TS || JS) === Back-end: Node (TS || JS) and Python (Flask).
-  
-
+#### FRONT-END - BACK-END AND MOBILE
 <div display="flex">
  <img src="https://github.com/rafaelcarvalhocaetano/rafaelcarvalhocaetano/blob/master/front.png" height="70" width="250"/>
  <img src="https://github.com/rafaelcarvalhocaetano/rafaelcarvalhocaetano/blob/master/back.png" height="70" width="250" />
