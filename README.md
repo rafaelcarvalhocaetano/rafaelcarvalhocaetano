@@ -1,6 +1,3 @@
-### Rafael Carvalho Caetano  
-
-#### FRONT-END - BACK-END AND MOBILE
 <div display="flex">
  <img src="https://github.com/rafaelcarvalhocaetano/rafaelcarvalhocaetano/blob/master/front.png" height="70" width="250"/>
  <img src="https://github.com/rafaelcarvalhocaetano/rafaelcarvalhocaetano/blob/master/back.png" height="70" width="250" />
