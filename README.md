@@ -1,9 +1,10 @@
 <img src="https://github.com/rafaelcarvalhocaetano/rafaelcarvalhocaetano/blob/master/banner.png" height="250" width="1024"/>
 
+<!--
 <div align="left">
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelcarvalhocaetano&layout=compact&hide=html,css,powershell,pascal&langs_count=10&exclude_repo=github-readme-stats,anuraghazra.github.io" height="200" width="250"/>
 </div>
-
+-->
 ## ⚡ Technologies
 
 These are some of the technologies and tools that I work with:
@@ -21,6 +22,5 @@ These are some of the technologies and tools that I work with:
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 ![JIRA](https://img.shields.io/badge/-JIRA-0052CC?style=flat-square&logo=jira)
-![JFrog](https://img.shields.io/badge/-JFrog-41BF47?style=flat-square&logo=jfrog&logoColor=white)
 ![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat-square&logo=intellij-idea&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
