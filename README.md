@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 
-Hi there! I'm Rafael Carvalho, a senior software engineer with expertise in technologies like React, Angular, Vue, Next.JS, NestJS, Golang, Python, and relational databases or NoSQL.
+Hi there! I'm Rafael Carvalho, a senior software developer:
 
 ## 🌐 Socials:
 
