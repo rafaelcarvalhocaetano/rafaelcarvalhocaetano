@@ -4,7 +4,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-carvalho-caetano/)
 
 ---
-
 ### 💾 Back-end Skills
 [![Go](https://img.shields.io/badge/Go-%2300add8.svg?style=flat&logo=go&logoColor=white&label=)](https://golang.org/) 
 [![Node.js](https://img.shields.io/badge/Node.js-%2343853d.svg?style=flat&logo=node.js&logoColor=white&label=)](https://nodejs.org/) 
@@ -14,9 +13,7 @@
 [![Java](https://img.shields.io/badge/Java-%23f7b700.svg?style=flat&logo=java&logoColor=white&label=)](https://www.java.com/) 
 [![NestJS](https://img.shields.io/badge/NestJS-%23e0234e.svg?style=flat&logo=nestjs&logoColor=white&label=)](https://nestjs.com/) 
 [![Spring](https://img.shields.io/badge/Spring-%236db33f.svg?style=flat&logo=spring&logoColor=white&label=)](https://spring.io/)
-
 ---
-
 ### ✉️ Messaging Systems
 [![Kafka](https://img.shields.io/badge/Kafka-%2315682b.svg?style=flat&logo=apachekafka&logoColor=white&label=)](https://kafka.apache.org/) 
 [![RabbitMQ](https://img.shields.io/badge/RabbitMQ-%2343b02f.svg?style=flat&logo=rabbitmq&logoColor=white&label=)](https://www.rabbitmq.com/)
@@ -27,9 +24,7 @@
 [![MongoDB](https://img.shields.io/badge/MongoDB-%2347a248.svg?style=flat&logo=mongodb&logoColor=white&label=)](https://www.mongodb.com/) 
 [![DynamoDB](https://img.shields.io/badge/DynamoDB-%23232f3e.svg?style=flat&logo=amazondynamodb&logoColor=white&label=)](https://aws.amazon.com/dynamodb/) 
 [![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white&label=)](https://www.sqlite.org/)
-
 ---
-
 ### 🎨 Front-end Technologies
 [![React](https://img.shields.io/badge/React-%2361dafb.svg?style=flat&logo=react&logoColor=white&label=)](https://reactjs.org/) 
 [![Angular](https://img.shields.io/badge/Angular-%23dd1b16.svg?style=flat&logo=angular&logoColor=white&label=)](https://angular.io/) 
@@ -37,9 +32,7 @@
 [![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=flat&logo=next.js&logoColor=white&label=)](https://nextjs.org/) 
 [![Flutter](https://img.shields.io/badge/Flutter-%2302568b.svg?style=flat&logo=flutter&logoColor=white&label=)](https://flutter.dev/) 
 [![Nuxt.js](https://img.shields.io/badge/Nuxt.js-%234f8fd1.svg?style=flat&logo=nuxt.js&logoColor=white&label=)](https://nuxtjs.org/)
-
 ---
-
 ### 🛠️ Libraries & Tools
 [![Prisma](https://img.shields.io/badge/Prisma-%232d3748.svg?style=flat&logo=prisma&logoColor=white&label=)](https://www.prisma.io/) 
 [![Sequelize](https://img.shields.io/badge/Sequelize-%234b92b7.svg?style=flat&logo=sequelize&logoColor=white&label=)](https://sequelize.org/) 
@@ -50,9 +43,7 @@
 [![HTML5](https://img.shields.io/badge/HTML5-%23e34f26.svg?style=flat&logo=html5&logoColor=white&label=)](https://developer.mozilla.org/en-US/docs/Web/HTML) 
 [![Jest](https://img.shields.io/badge/Jest-%23c21325.svg?style=flat&logo=jest&logoColor=white&label=)](https://jestjs.io/) 
 [![Storybook](https://img.shields.io/badge/Storybook-%23333.svg?style=flat&logo=storybook&logoColor=white&label=)](https://storybook.js.org/)
-
 ---
-
 ### ⚡ DevOps Expertise
 [![AWS](https://img.shields.io/badge/AWS-%23ff9900.svg?style=flat&logo=amazonaws&logoColor=white&label=)](https://aws.amazon.com/) 
 [![GCP](https://img.shields.io/badge/GCP-%234285f4.svg?style=flat&logo=googlecloud&logoColor=white&label=)](https://cloud.google.com/) 
