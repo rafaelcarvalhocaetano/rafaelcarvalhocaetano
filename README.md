@@ -2,7 +2,6 @@
 <h4>💻 Senior Software Developer passionate about building scalable solutions</h4>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-carvalho-caetano/)
-
 ---
 ### 💾 Back-end
 [![Go](https://img.shields.io/badge/Go-%2300add8.svg?style=flat&logo=go&logoColor=white&label=)](https://golang.org/) 
