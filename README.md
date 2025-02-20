@@ -4,7 +4,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-carvalho-caetano/)
 
 ---
-### 💾 Back-end Skills
+### 💾 Back-end
 [![Go](https://img.shields.io/badge/Go-%2300add8.svg?style=flat&logo=go&logoColor=white&label=)](https://golang.org/) 
 [![Node.js](https://img.shields.io/badge/Node.js-%2343853d.svg?style=flat&logo=node.js&logoColor=white&label=)](https://nodejs.org/) 
 [![Python](https://img.shields.io/badge/Python-%233776ab.svg?style=flat&logo=python&logoColor=white&label=)](https://www.python.org/) 
@@ -14,7 +14,7 @@
 [![NestJS](https://img.shields.io/badge/NestJS-%23e0234e.svg?style=flat&logo=nestjs&logoColor=white&label=)](https://nestjs.com/) 
 [![Spring](https://img.shields.io/badge/Spring-%236db33f.svg?style=flat&logo=spring&logoColor=white&label=)](https://spring.io/)
 ---
-### ✉️ Messaging Systems
+### ✉️ Messaging
 [![Kafka](https://img.shields.io/badge/Kafka-%2315682b.svg?style=flat&logo=apachekafka&logoColor=white&label=)](https://kafka.apache.org/) 
 [![RabbitMQ](https://img.shields.io/badge/RabbitMQ-%2343b02f.svg?style=flat&logo=rabbitmq&logoColor=white&label=)](https://www.rabbitmq.com/)
 ---
@@ -25,7 +25,7 @@
 [![DynamoDB](https://img.shields.io/badge/DynamoDB-%23232f3e.svg?style=flat&logo=amazondynamodb&logoColor=white&label=)](https://aws.amazon.com/dynamodb/) 
 [![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white&label=)](https://www.sqlite.org/)
 ---
-### 🎨 Front-end Technologies
+### 🎨 Front-end
 [![React](https://img.shields.io/badge/React-%2361dafb.svg?style=flat&logo=react&logoColor=white&label=)](https://reactjs.org/) 
 [![Angular](https://img.shields.io/badge/Angular-%23dd1b16.svg?style=flat&logo=angular&logoColor=white&label=)](https://angular.io/) 
 [![Vue.js](https://img.shields.io/badge/Vue.js-%2335495e.svg?style=flat&logo=vue.js&logoColor=white&label=)](https://vuejs.org/) 
@@ -44,7 +44,7 @@
 [![Jest](https://img.shields.io/badge/Jest-%23c21325.svg?style=flat&logo=jest&logoColor=white&label=)](https://jestjs.io/) 
 [![Storybook](https://img.shields.io/badge/Storybook-%23333.svg?style=flat&logo=storybook&logoColor=white&label=)](https://storybook.js.org/)
 ---
-### ⚡ DevOps Expertise
+### ⚡ DevOps
 [![AWS](https://img.shields.io/badge/AWS-%23ff9900.svg?style=flat&logo=amazonaws&logoColor=white&label=)](https://aws.amazon.com/) 
 [![GCP](https://img.shields.io/badge/GCP-%234285f4.svg?style=flat&logo=googlecloud&logoColor=white&label=)](https://cloud.google.com/) 
 [![Jenkins](https://img.shields.io/badge/Jenkins-%23d24939.svg?style=flat&logo=jenkins&logoColor=white&label=)](https://www.jenkins.io/) 
