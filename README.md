@@ -1,9 +1,6 @@
 <h1>👋 Hi, I'm Rafael Carvalho</h1>
-<h3>💻 Senior Software Developer passionate about building scalable solutions</h3>
+<h4>💻 Senior Software Developer passionate about building scalable solutions</h4>
 
----
-
-### 🌐 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-carvalho-caetano/)
 
 ---
